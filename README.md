@@ -1,11 +1,12 @@
+## Who I am?
+
 - 👋 Hello, I’m @AlexandreMundoJS
 - 👀 I’m interested in Javascript, HTML, CSS, NodeJS and Oracle Commerce Cloud
 - 🌱 I’m currently learning Javascript, Design Patterns and E-Commerce Architecture
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
-```diff
-- SKILLS
-```
+## SKILLS
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img
         src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px"
         height="30px"></a>
