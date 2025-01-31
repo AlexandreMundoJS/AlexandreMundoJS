@@ -1,10 +1,11 @@
 ## Who I am?
 
 - 👋 Hello, I’m @AlexandreMundoJS
-- 👀 I’m interested in Javascript, HTML, CSS, NodeJS and Oracle Commerce Cloud
-- 🌱 I’m currently learning JavaScript, TypeScript, Design Patterns and E-Commerce Architecture
-- :heartpulse: I'm in love with TDD. I'm looking to understand and be more effective writing code.
+- 👀 I’m interested in Javascript, HTML, CSS, NodeJS, ReactJS, Java and Oracle Commerce Cloud
+- 🌱 I’m currently learning Java and SpringBoot. I'm creating projects to understand the framework.
+- :heartpulse: I have experience in Front and Backend projects. I also have experience in software and solution Architecture.
 - 💞️ I’m looking to collaborate on JavaScript projects.
+- You'll not found anything usefull here. Contact me on <a href="https://www.linkedin.com/in/alexandre-garske-machado/" title="Linkedin">Linkedin</a>
 
 ## SKILLS
 
