@@ -1,70 +1,42 @@
-## Who I am?
+# 👋 Hi, I'm Alexandre Machado
 
-- 👋 Hello, I’m @AlexandreMundoJS
-- 👀 I’m interested in Javascript, HTML, CSS, NodeJS, ReactJS, Java and Oracle Commerce Cloud
-- 🌱 I’m currently learning Java and SpringBoot. I'm creating projects to understand the framework.
-- :heartpulse: I have experience in Front and Backend projects. I also have experience in software and solution Architecture.
-- 💞️ I’m looking to collaborate on JavaScript projects.
-- You won't find anything usefull here. Contact me on <a href="https://www.linkedin.com/in/alexandre-garske-machado/" title="Linkedin">Linkedin</a>
+I'm a passionate **frontend developer** with strong expertise in building modern, scalable, and performant applications.  
+I also have solid knowledge of **backend development**, allowing me to contribute across the full stack when needed.
 
-## SKILLS
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px"
-        height="30px"></a>
-<a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="30px"
-        height="30px"></a>
-<a href="https://knockoutjs.com/" title="KnockoutJs"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/knockout.svg" alt="ECMAScript 6" width="30px" height="30px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"
-        alt="React" width="30px" height="30px"></a>
-<a href="https://jquery.com/" title="jQuery"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="30px"
-        height="30px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"></a>
-<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg"
-        alt="Sass" width="30px" height="30px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px"
-        height="30px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px"
-        height="30px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px"
-        height="30px"></a>
-<a href="https://expressjs.com/" title="Express"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="30px"
-        height="30px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px"
-        height="30px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg"
-        alt="MySQL" width="30px" height="30px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px"
-        height="30px"></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg"
-        alt="npm" width="30px" height="30px"></a>
-<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg"
-        alt="Yarn" width="30px" height="30px"></a>
-<a href="https://prettier.io/" title="Prettier"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="30px"
-        height="30px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code"
-        width="30px" height="30px"></a>
-<a href="https://wordpress.org/" title="WordPress"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="30px"
-        height="30px"></a>
-<a href="https://www.firebase.com/" title="Firebase"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px"
-        height="30px"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>
-<a href="https://lesscss.org/" title="Less"><img
-        src="https://github.com/get-icon/geticon/raw/master/icons/less.svg" alt="C" width="30px" height="30px"></a>
-        
-## 
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+
+### 🛠️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🗃️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧠 Knowledge Areas
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23F7931E?style=for-the-badge&logo=stackshare&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [Alexandre Machado](https://www.linkedin.com/in/alexandre-garske-machado/)
+- Email: [alexangm@gmail.com](mailto:alexangm@gmail.com)
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> – Cory House
+
